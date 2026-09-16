@@ -1,0 +1,1 @@
+Pressearchiv: Die Presseberichte liegen als historische Bilddateien vor. Die HTML-Seite presse.html verlinkt die derzeit im Repository übernommenen Berichte.
