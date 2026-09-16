@@ -1,1 +1,0 @@
-Original image assets will be committed directly to GitHub.
